@@ -47,7 +47,7 @@ O objetivo desse desafio é criar um hook de carrinho de compras.
 ## 🎨 Layout
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Imagem de um App de todo" title="App todo para o desafio 01 do Ignite" src="https://github.com/wendelleloi/desafio-02-hook-carrinho-de-compras/blob/main/.github/RocketShoes.gif" />
+  <img alt="Imagem de um carrinho de compras" title="Carrinho de compras para o desafio 02 do Ignite" src="https://github.com/wendelleloi/desafio-02-hook-carrinho-de-compras/blob/master/.github/RocketShoes.gif" />
 </p>
 
 ---
@@ -87,12 +87,12 @@ $ yarn dev # ou npm run dev
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - **[React](https://reactjs.org/)**
+- **[Context api](https://pt-br.reactjs.org/docs/context.html)**
 - **[Typescript](https://www.typescriptlang.org/)**
-- **[Babel](https://babeljs.io/)**
-- **[Webpack](https://webpack.js.org/)**
-- **[Sass](https://sass-lang.com/)**
+- **[React-toastify](https://fkhadra.github.io/react-toastify/introduction/)**
+- **[Styled-components](https://styled-components.com/)**
 
-> Veja o arquivo [package.json](https://github.com/wendelleloi/desafio-02-hook-carrinho-de-compras/blob/main/package.json)
+> Veja o arquivo [package.json](https://github.com/wendelleloi/desafio-02-hook-carrinho-de-compras/blob/master/package.json)
 
 ---
 
